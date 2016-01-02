@@ -1,5 +1,5 @@
-# [TeleSeed](https://telegram.me/TeleSeed) 
-**An advance and powerful Administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under [GNU General public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**
+# [TeleTardd](https://telegram.me/TeleTard) 
+**An advance and powerful Administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under [GNU General public License](https://github.com/TardTeam/TeleTard/blob/master/LICENSE)**
 # Features
 
 * **A powerful Anti spam with custom sensitivity For each group**
@@ -25,7 +25,7 @@
 ### Group creation
 >/creategroup [group name]
 >
->>/creategroup SEED
+>>/creategroup TARD
 >>>will create a group
 >>>
 >>>_Only works in realms But sudo users can use it everywhere_
@@ -57,7 +57,7 @@
 
 ### Setting Group name in realm 
 > /setname [Group_id] [text]
->>/setname 123456789 SEED
+>>/setname 123456789 TARD
 >>>This command will set [text] as name of [Group_id]
 
 ### Setting rules in realm
@@ -136,7 +136,7 @@
 >>>This command will set [User_id] as the owner of [group_id]
 
 ### Bot stats 
->/stats teleseed
+>/stats teletard
 >>This command will return bot stats
 
 ## owners and mods commands
@@ -197,7 +197,7 @@ _Sudo users and admins can also use this commands in all groups_
 
 ### Changing Group name
 >/setname [name]
->>/setname SEED
+>>/setname TARD
 >>>This command will set [name] as name of groups
 
 ### Group link
@@ -315,7 +315,7 @@ _Sudo users and admins can also use this commands in all groups_
 
 ### change name|rules|name
 >/changename [group_id] [name]
->>/changename 123456789 SEED
+>>/changename 123456789 TARD
 >
 >/changrules [group_id] [rules]
 >>/changrules 123456789 rules !
@@ -343,8 +343,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ```bash
 # lets install the bot
 cd $HOME
-git clone https://github.com/SEEDTEAM/TeleSeed.git
-cd TeleSeed
+git clone https://github.com/TardTeam/TeleTard.git
+cd TeleTard
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -374,29 +374,35 @@ then start the bot again
 # Support and development
 
 Do not contact **us** In private for support.
-Join our bot development group by sending `/join 56670147` to [@TeleSeed](https://telegram.me/TeleSeed)
+Join our bot development group by sending `/join 80263152` to [@TeleTard](https://telegram.me/TeleTard)
 
 _If you are using /join service for first time you have to send it 11 time ( Bot is spam reported )_
 
 # Special thanks to
-[@seyedan25](https://telegram.me/seyedan25)
+[@mahdi17177](https://telegram.me/mahdi17177)
 
-For Managing [@teleseed](https://telegram.me/TeleSeed) on telegram
+For Managing [@TeleTard](https://telegram.me/TeleTard) on telegram
 
-[@Vamptacus](https://telegram.me/Vamptacus)
+[@mahdimasih](https://github.com/mehdimasih1380)
 
-For graphic designs
-
-[@topkecleon](https://github.com/topkecleon)
-
-[@JuanPotato](https://github.com/JuanPotato)
+For help us about vps servers
 
 # Our team !
 
-[Alphonse](https://github.com/hmon) ([Telegram](https://telegram.me/iwals))
+[MaStEr FeRi](https://github.com/Ferisystem) ([Telegram](https://telegram.me/Ferisystem))
 
-[I M /-\ N](https://github.com/imandaneshi) ([Telegram](https://telegram.me/imandaneshi))
+[Lord Mehdi](https://github.com/LordMehdi) ([Telegram](https://telegram.me/mahdi17177))
 
-[Siyanew](https://github.com/Siyanew) ([Telegram](https://telegram.me/Siyanew))
+# Our cahnnel !
 
-Our cahnnel > [@TeleSeedCH](https://telegram.me/teleseedch)
+[@TeleTardCh](https://telegram.me/TeleTardCh)
+
+# Our other Bots !
+
+[@Vpns_Bot](https://telegram.me/Vpns_bot) a bot that gives vpn for all OS to you
+
+[@Clashofofclans_Bot](https://Telegram.me/Clashofofclans_Bot) a bot that gives Hack Tools,Funny Tools,etc... to you
+
+[@TeleTard_Supplement_Bot](https://telegram.me/TeleTard_Supplement_Bot)
+
+[@TeleTard_Helper_Bot](https://telegram.me/TeleTard_Helper_Bot)
