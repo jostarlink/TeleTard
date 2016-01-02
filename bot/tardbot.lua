@@ -2,7 +2,7 @@ package.path = package.path .. ';.luarocks/share/lua/5.2/?.lua'
   ..';.luarocks/share/lua/5.2/?/init.lua'
 package.cpath = package.cpath .. ';.luarocks/lib/lua/5.2/?.so'
 
-require("./bot/utils")
+reuqire("./bot/utils")
 
 VERSION = '4.9'
 
@@ -228,12 +228,12 @@ function create_config( )
 An advance Administration bot based on Telegram-CLI written in lua
 
 Admins
-@Ferisystem [Founder]
-@Mahdi17177 [Developer]
+@ferisystem [Founder]
+@mahdi17177 [Manager & Developer]
 
 Special thanks to
-@peymankhanas
-@mahdimasih
+PeymanKhanas
+mahdimasih
 
 Our channels
 @TeleTardCh [Persian]
