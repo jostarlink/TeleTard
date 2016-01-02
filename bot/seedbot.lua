@@ -4,7 +4,7 @@ package.cpath = package.cpath .. ';.luarocks/lib/lua/5.2/?.so'
 
 require("./bot/utils")
 
-VERSION = '1.0'
+VERSION = '4.9'
 
 -- This function is called when tg receive a msg
 function on_msg_receive (msg)
@@ -220,28 +220,23 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
+    sudo_users = {139946685,112524566,175582173,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
+    about_text = [[TeleTard v4.9
+An advance Administration bot based on Telegram-CLI written in lua
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
+@Ferisystem [Founder]
+@Mahdi17177 [Developer]
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+@peymankhanas
+@mahdimasih
 
 Our channels
-@teleseedch [English]
+@TeleTardCh [Persian]
 ]],
     help_text = [[
 Commands list :
