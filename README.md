@@ -1,4 +1,4 @@
-# [TeleTardd](https://telegram.me/TeleTard) 
+# [TeleTard](https://telegram.me/TeleTard) 
 **An advance and powerful Administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under [GNU General public License](https://github.com/TardTeam/TeleTard/blob/master/LICENSE)**
 # Features
 
