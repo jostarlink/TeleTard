@@ -235,6 +235,9 @@ Special thanks to
 PeymanKhanas
 mahdimasih
 
+our bots for help this bot
+@TeleTard_Supplement_Bot for say hello & bye to members
+@TeleTard_Helper_Bot for help you to work with TeleTard
 Our channels
 @TeleTardCh [Persian]
 ]],
