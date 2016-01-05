@@ -387,8 +387,6 @@ For Managing [@TeleTard](https://telegram.me/TeleTard) on telegram
 
 [@PeymanKhanas](https://telegram.me/PeymanKhanas) for make a Good program on TeleTard
 
-For help us about vps servers
-
 # Our team !
 
 [MaStEr FeRi](https://github.com/Ferisystem) ([Telegram](https://telegram.me/Ferisystem))
