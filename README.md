@@ -383,7 +383,9 @@ _If you are using /join service for first time you have to send it 11 time ( Bot
 
 For Managing [@TeleTard](https://telegram.me/TeleTard) on telegram
 
-[@mahdimasih](https://github.com/mehdimasih1380)
+[@mahdimasih](https://telegram.me/mahdimasih) for help us about servers
+
+[@PeymanKhanas](https://telegram.me/PeymanKhanas) for make a Good program on TeleTard
 
 For help us about vps servers
 
@@ -403,6 +405,6 @@ For help us about vps servers
 
 [@Clashofofclans_Bot](https://Telegram.me/Clashofofclans_Bot) a bot that gives Hack Tools,Funny Tools,etc... to you
 
-[@TeleTard_Supplement_Bot](https://telegram.me/TeleTard_Supplement_Bot)
+[@TeleTard_Supplement_Bot](https://telegram.me/TeleTard_Supplement_Bot) for say hi & bye to someone on TARD groups
 
-[@TeleTard_Helper_Bot](https://telegram.me/TeleTard_Helper_Bot)
+[@TeleTard_Helper_Bot](https://telegram.me/TeleTard_Helper_Bot) help you about to work with TeleTard
