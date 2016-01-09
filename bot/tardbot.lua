@@ -238,79 +238,115 @@ Special thanks to
 PeymanKhanas
 mahdimasih
 
+solve you problem with TeleTard:
+First join Support Group of TeleTard (Persian) : send !join 80263152 to pv of TeleTard
+
 our bots for help this bot
-@TeleTard_Supplement_Bot for say hello & bye to members
-@TeleTard_Helper_Bot for help you to work with TeleTard
+@TeleTard_Supplement_Bot
+@TeleTard_Kicker_Bot
+
 Our channels
 @TeleTardCh [Persian]
 ]],
     help_text = [[لیست دستورات ⚡️TeleTard⚡️  :
 !teletard
 توظیحات کامل بات ⚜
+
 !echo {text} 
 تکرار حرف شما🔊
+
 !block id
 بلاک کردن یوزر ایدی ❌
+
 !linkpv 
 ارسال لینک گروه به پی وی👍
+
 !kick [username|id]
 برای تنها اخراح کرد فرد مورد نظر ❌
+
 !ban [ username|id]
 برای اخراج کردن دائمی فرد مورد نظر❌
+
 !unban [id]
 خارج کردن از اخراج دائمی فرد مورد نظر❌
+
 !wholist
 لیست اعضای داخل گروه 
+
 !modlist
 لیست مدیران داخل گروه
+
 !promote [username]
 مدیر کردن فرد مورد نظر👥
+
 !demote [username]
 خارج کردن از مدیرته فرد مورد نظر
+
 !kickme
 پاک کردن شما
+
 !about
 توظیحات گروه
+
 !setphoto
 فرستادن عکس گروه و قفل کردن ان
+
 !setname [name]
 گزاشتن اسم گروه
+
 !rules
 قوانین گروه➰
+
 !id
 ایدی گروه🆔
+
 !help
 لیست راهنمایی
+
 !lock [member|name|bots]
 قفل کردن [اعضا|اسم|ربات ها] 
 
 !unlock [member|name|photo|bots]
 خارج کردن از قفل [اعضا|اسم|ربات ها] 
+
 !set rules <text>
 قرار دادن متن قانون گروه
+
 !set about <text>
 قرار دادن متن اطلاعات گروه
+
 !settings
 تنظیمات گروه
+
 !newlink
 ساختن لینک جدید
+
 !link
 دادن لینک
+
 !owner
 ایدی مدیر اصلی گروه
+
 !setowner [id]
 عوض کردن مدیر اصلی گروه
+
 !setflood [value]
 قرار دادن مقدار پیام تکراری
+
 !stats
 مفدار پیام های داده شده در گروه
+
 !save [value] <text>
 ذخیره کلمه پیش فرض
+
 !get [value]
 دادن متن کلمه ی پیش مرض
+
 !clean [modlist|rules|about]
 پاک کردن  [مدیران|قانون|اطلاعات]
+
 !res [username]
+
 دادن ایدی فرد مورد نظر به طور مثال :
 "!res @username"
 
