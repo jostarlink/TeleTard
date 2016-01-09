@@ -218,8 +218,6 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite",
-    "block",
-    "echo",
     "link.pv",
     "all"
     },
