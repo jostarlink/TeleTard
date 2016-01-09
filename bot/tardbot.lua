@@ -218,6 +218,9 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite",
+    "block",
+    "echo",
+    "link.pv",
     "all"
     },
     sudo_users = {139946685,112524566,175582173,0,tonumber(our_id)},--Sudo users
@@ -241,111 +244,84 @@ our bots for help this bot
 Our channels
 @TeleTardCh [Persian]
 ]],
-    help_text = [[
-Commands list :
-
+    help_text = [[لیست دستورات ⚡️TeleTard⚡️  :
+!teletard
+توظیحات کامل بات ⚜
+!echo {text} 
+تکرار حرف شما🔊
+!block id
+بلاک کردن یوزر ایدی ❌
+!linkpv 
+ارسال لینک گروه به پی وی👍
 !kick [username|id]
-You can also do it by reply
-
+برای تنها اخراح کرد فرد مورد نظر ❌
 !ban [ username|id]
-You can also do it by reply
-
+برای اخراج کردن دائمی فرد مورد نظر❌
 !unban [id]
-You can also do it by reply
-
-!who
-Members list
-
+خارج کردن از اخراج دائمی فرد مورد نظر❌
+!wholist
+لیست اعضای داخل گروه 
 !modlist
-Moderators list
-
+لیست مدیران داخل گروه
 !promote [username]
-Promote someone
-
+مدیر کردن فرد مورد نظر👥
 !demote [username]
-Demote someone
-
+خارج کردن از مدیرته فرد مورد نظر
 !kickme
-Will kick user
-
+پاک کردن شما
 !about
-Group description
-
+توظیحات گروه
 !setphoto
-Set and locks group photo
-
+فرستادن عکس گروه و قفل کردن ان
 !setname [name]
-Set group name
-
+گزاشتن اسم گروه
 !rules
-Group rules
-
+قوانین گروه➰
 !id
-return group id or user id
-
+ایدی گروه🆔
 !help
-
+لیست راهنمایی
 !lock [member|name|bots]
-Locks [member|name|bots] 
+قفل کردن [اعضا|اسم|ربات ها] 
 
 !unlock [member|name|photo|bots]
-Unlocks [member|name|photo|bots]
-
+خارج کردن از قفل [اعضا|اسم|ربات ها] 
 !set rules <text>
-Set <text> as rules
-
+قرار دادن متن قانون گروه
 !set about <text>
-Set <text> as about
-
+قرار دادن متن اطلاعات گروه
 !settings
-Returns group settings
-
+تنظیمات گروه
 !newlink
-create/revoke your group link
-
+ساختن لینک جدید
 !link
-returns group link
-
+دادن لینک
 !owner
-returns group owner id
-
+ایدی مدیر اصلی گروه
 !setowner [id]
-Will set id as owner
-
+عوض کردن مدیر اصلی گروه
 !setflood [value]
-Set [value] as flood sensitivity
-
+قرار دادن مقدار پیام تکراری
 !stats
-Simple message statistics
-
+مفدار پیام های داده شده در گروه
 !save [value] <text>
-Save <text> as [value]
-
+ذخیره کلمه پیش فرض
 !get [value]
-Returns text of [value]
-
+دادن متن کلمه ی پیش مرض
 !clean [modlist|rules|about]
-Will clear [modlist|rules|about] and set it to nil
-
+پاک کردن  [مدیران|قانون|اطلاعات]
 !res [username]
-returns user id
+دادن ایدی فرد مورد نظر به طور مثال :
 "!res @username"
 
 !log
-will return group logs
+لیست تمام دستور های زده شده در گروه
+!/banlist
+لیست بن شده ها
 
-!banlist
-will return group ban list
-
-**U can use both "/" and "!" 
-
-
-*Only owner and mods can add bots in group
-
-
-*Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
-
-*Only owner can use res,setowner,promote,demote and log commands
+📣  شما میتوانید از ! و / استفاده کنید.
+📣  تنها مدیران میتوانند ربات ادد کنند.
+📣 تنها معاونان و مدیران میتوانندجزییات مدیریتی گروه را تغییر دهند.
 
 ]]
 
