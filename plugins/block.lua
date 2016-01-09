@@ -3,7 +3,7 @@ local function block_user_callback(cb_extra, success, result)
 local receiver = cb_extra.receiver
 local user = 'user#id'..result.id
 if success == 0 then
-return send_large_msg(receiver, "Block Process Failedًں”´آ´")
+return send_large_msg(receiver, "🚫 خطا در بلاک کردن کاربر")
 end
 block_user(user, cb_ok, false)
 end
@@ -17,14 +17,14 @@ user = 'user#id'..user
 block_user(user, callback, false)
 end
 if not is_sudo(msg) or is_realm(msg) and is_admin(msg) then
-return 'BLOCK ONLY BY SUDO'
+return '⚠️ دسترسی فقط برای مدیران کل'
 end
-return "I Have Blocked Userâœ…"
+return "⛔️ کاربر مورد نظر بلاک شد"
 end
 end
 return {
 patterns = {
-"^[!/]block (user) (%d+)$",
+"^[!/]block (%d+)$",
 },
 run = run,
 }
