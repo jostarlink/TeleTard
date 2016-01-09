@@ -4,7 +4,7 @@ package.cpath = package.cpath .. ';.luarocks/lib/lua/5.2/?.so'
 
 require("./bot/utils")
 
-VERSION = '4.9'
+VERSION = '5.0'
 
 -- This function is called when tg receive a msg
 function on_msg_receive (msg)
@@ -219,6 +219,7 @@ function create_config( )
     "download_media",
     "invite",
     "link.pv",
+    "autoleave",
     "all"
     },
     sudo_users = {139946685,112524566,175582173,0,tonumber(our_id)},--Sudo users
